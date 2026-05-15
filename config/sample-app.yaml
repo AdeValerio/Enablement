@@ -1,0 +1,7 @@
+app:
+  name: "Baseline-App"
+  port: 8080
+features:
+  - "auth-v2"
+  - "logging-stream"
+  - "metrics-exporter"
